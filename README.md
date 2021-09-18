@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayur8863
+- 👋 Hi, I’m Mayur Paliwal
 - 👀 I’m interested in building web projects
 - 🌱 I’m currently learning JavaScript and ML
 - 💞️ I’m looking to collaborate on Web Projects
